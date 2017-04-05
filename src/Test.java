@@ -7,8 +7,8 @@ public class Test {
 		int a3;
 		a1=new int[2];
 		a2=new int[2];
-		 
-		String a="sss"; 
+		   
+		String a="sssssd"; 
 		a.length();
 		
 		new Test2();

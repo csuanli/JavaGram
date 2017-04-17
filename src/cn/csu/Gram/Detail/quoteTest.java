@@ -10,7 +10,7 @@ package cn.csu.Gram.Detail;
  * @since V8 <br>
  * @see cn.csu.Gram.Detail <br>
  */
-public class QuoteTest {
+public class quoteTest {
 
     public static void main(String[] args) {
         // 传值

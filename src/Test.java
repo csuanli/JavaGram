@@ -10,7 +10,7 @@ public class Test {
 		   
 		String a="test again"; 
 		a.length();
-		
+		 
 		new Test2();
 		//System.out.println(a1.getClass());
 		//System.out.println(a1.getClass());

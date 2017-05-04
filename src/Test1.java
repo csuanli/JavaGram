@@ -1,5 +1,3 @@
-import java.io.UnsupportedEncodingException;
-
 /**
  * 文件名: Test1.java  
  * 描述： TODO 

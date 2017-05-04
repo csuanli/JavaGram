@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="profiler.settings.instrument.empty.methods">true</entry>
+<entry key="ProfilerCPUSettings_profile_runnables">true</entry>
+<entry key="profiler.settings.n.profiled.threads.limit">32</entry>
+<entry key="ProfilerCPUSettings_filter_type">2</entry>
+<entry key="profiler.settings.obj.alloc.stack.sampling.depth">-1</entry>
+<entry key="profiler.settings.instrument.method.invoke">true</entry>
+<entry key="profiler.settings.instr.scheme">1</entry>
+<entry key="ProfilerMemorySettings_track_every">10</entry>
+<entry key="ProfilerMemorySettings_mode">4</entry>
+<entry key="ProfilerCPUSettings_root_classes">cn.csu.Abstract.**
+cn.csu.Algorithm.Numeric.**
+cn.csu.Algorithm.Problem.**
+cn.csu.Algorithm.Sort.**
+cn.csu.Collection.**
+cn.csu.Constructor.**
+cn.csu.Crack.**
+cn.csu.DataStructure.**
+cn.csu.DataType.**
+cn.csu.Date.**
+cn.csu.DesignPattern.ProxyPattern.**
+cn.csu.DesignPattern.SinglePattern.**
+cn.csu.DesignPattern.TemplatePattern.**
+cn.csu.Exception.**
+cn.csu.ExpReg.**
+cn.csu.Extends.**
+cn.csu.Gram.Detail.**
+cn.csu.Gram.Exception.**
+cn.csu.Gram.Feature.**
+cn.csu.Gram.annotation.**
+cn.csu.Huawei.**
+cn.csu.IO.**
+cn.csu.Inner.**
+cn.csu.JDBC.**
+cn.csu.Log.**
+cn.csu.Method.**
+cn.csu.Net.**
+cn.csu.Random.**
+cn.csu.Reflect.**
+cn.csu.Scheduled.**
+cn.csu.Swing.**
+cn.csu.Thread.**
+cn.csu.decorate.**
+cn.csu.test.**
+cn.redis.**
+</entry>
+<entry key="ProfilerCPUSettings_filter_value">cn.csu.Abstract.*,&#13;
+cn.csu.Algorithm.Numeric.*,&#13;
+cn.csu.Algorithm.Problem.*,&#13;
+cn.csu.Algorithm.Sort.*,&#13;
+cn.csu.Collection.*,&#13;
+cn.csu.Constructor.*,&#13;
+cn.csu.Crack.*,&#13;
+cn.csu.DataStructure.*,&#13;
+cn.csu.DataType.*,&#13;
+cn.csu.Date.*,&#13;
+cn.csu.DesignPattern.ProxyPattern.*,&#13;
+cn.csu.DesignPattern.SinglePattern.*,&#13;
+cn.csu.DesignPattern.TemplatePattern.*,&#13;
+cn.csu.Exception.*,&#13;
+cn.csu.ExpReg.*,&#13;
+cn.csu.Extends.*,&#13;
+cn.csu.Gram.Detail.*,&#13;
+cn.csu.Gram.Exception.*,&#13;
+cn.csu.Gram.Feature.*,&#13;
+cn.csu.Gram.annotation.*,&#13;
+cn.csu.Huawei.*,&#13;
+cn.csu.IO.*,&#13;
+cn.csu.Inner.*,&#13;
+cn.csu.JDBC.*,&#13;
+cn.csu.Log.*,&#13;
+cn.csu.Method.*,&#13;
+cn.csu.Net.*,&#13;
+cn.csu.Random.*,&#13;
+cn.csu.Reflect.*,&#13;
+cn.csu.Scheduled.*,&#13;
+cn.csu.Swing.*,&#13;
+cn.csu.Thread.*,&#13;
+cn.csu.decorate.*,&#13;
+cn.csu.test.*,&#13;
+cn.redis.*</entry>
+<entry key="profiler.settings.istrument.getter.setter.methods">true</entry>
+<entry key="myeclipse.profiling.mode">0</entry>
+<entry key="ProfilerMemorySettings_stacktraces">-1</entry>
+<entry key="profiler.settings.sampling.interval">10</entry>
+<entry key="profiler.settings.cpu.profiling.type">0</entry>
+</properties>

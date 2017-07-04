@@ -17,6 +17,9 @@ public class Thread_Impl_Runable {
 		
 		ThreadTest t2=new ThreadTest();
 		new Thread(t2).start();		//启动线程
+		
+		Thread t3 = new Thread(t2);
+		t3.start();
 	}
 }
 

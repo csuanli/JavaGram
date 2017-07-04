@@ -25,7 +25,7 @@ public class BigDecimalTest {
         float f2 = (float) (Math.round(f1 * 100)) / 100;
         float f3 = 10;
         float f4 = f2+f3;
-        System.out.println(Float.toString(f4));
+        System.out.println(f1 + "   " + f2 + "   " + "   " + f3 +"    " + Float.toString(f4));
         
         
         BigDecimal b1 = new BigDecimal("21464148");

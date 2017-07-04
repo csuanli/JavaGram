@@ -17,11 +17,17 @@ public class BooleanTest {
 		int i2=Character.SIZE;
 		int i3=Integer.SIZE;
 		int i4=Long.SIZE;
+		int i5 = Float.SIZE;
+		int i6 = Double.SIZE;
+		int i7 = Short.SIZE;
 		
 		System.out.println(i1);
 		System.out.println(i2);
 		System.out.println(i3);
 		System.out.println(i4);
+		System.out.println(i5);
+		System.out.println(i6);
+		System.out.println(i7);
 	}
 
 }

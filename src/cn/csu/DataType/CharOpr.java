@@ -11,6 +11,9 @@ public class CharOpr {
 		char c='A'+'6'-'3';
 		System.out.println(a+" 转化为int类型："+(int)a);
 		System.out.println(c+" 转化为int类型："+(int)c);
+		
+		char b = 'a';
+		System.out.println("a 转化为int类型："+(int)b);
 	}
 
 }
